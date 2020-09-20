@@ -1,5 +1,6 @@
 ![GIF](https://github.com/rishika2110/rishika2110/blob/master/Baymax_gif/baymax1.webp)
 ### Hello there 👋
+<img align="left" width="100" height="100" src="https://github.com/rishika2110/rishika2110/blob/master/Baymax_gif/baymax1.webp">
 - 🔭 I’m currently working at IvLabs, an AI and Robotics community.
 - 🌱 I’m currently learning Deep Learning, mainly Natural Language Processing and Autoencoders.
 - 👯 I would be glad to collaborate over any project that keeps my learning wheel spinning.
