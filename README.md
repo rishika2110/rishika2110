@@ -10,4 +10,5 @@
 - ⚡ Oh, there's actually a paper on ["How to Read a Paper"](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf).
 
 ---
-[![Rishika's github stats](https://github-readme-stats.vercel.app/api?username=rishika2110)](https://github.com/rishika2110/github-readme-stats)
+
+![Rishika's github stats](https://github-readme-stats.vercel.app/api?username=rishika2110&show_icons=true&theme=algolia)
