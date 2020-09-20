@@ -1,3 +1,5 @@
+![GIf](https://github.com/rishika2110/rishika2110/blob/master/Baymax_gif/baymax1.webp)
+
 ### Hello there 👋
 
 - 🔭 I’m currently working at IvLabs, an AI and Robotics community.
