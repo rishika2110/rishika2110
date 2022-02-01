@@ -7,7 +7,7 @@
 - 😄 I aspire to make DL and NLP research more accessible and open-sourced.
 - 💬 Feel free to send virtual pigeons with letters about DL, Mathematics, dogs and alpacas.
 - 📫 Send your pigeons to bhagwatkarrishika@gmail.com.
-- 🤔 I often read literature and try to comprehend the thought process of the writer.
+- 🤔 I often read literature and try to comprehend the thought process of the author.
 - ⚡ Oh, there's actually a paper on ["How to Read a Paper"](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf).
 
 ---
